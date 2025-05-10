@@ -2,21 +2,22 @@
 A robust, GPU-powered deep learning system designed to detect ADHD, ASD in children by analyzing handwriting samples. This project leverages ResNet50V2 with custom CNN layers and was inspired by the need for early, accessible, and non-invasive ADHD diagnosis support—especially for children with Autism Spectrum Disorder (ASD).
 
 📌 Table of Contents
-Background
-Problem Statement
-Motivation
-Objectives
-Scope
-Significance
-System Architecture
-Model Details
-Technologies Used
-Installation
-Usage
-Results
-Limitations
-Future Enhancements
-Credits
+Background, 
+Problem Statement, 
+Motivation, 
+Objectives, 
+Scope, 
+Significance, 
+System Architecture, 
+Model Details, 
+Technologies Used, 
+Installation, 
+Usage, 
+Results, 
+Limitations, 
+Future Enhancements, 
+Credits.
+
 📖 Background
 ADHD is one of the most common neurodevelopmental disorders in children. Detecting ADHD early is critical, especially among children with ASD, where overlapping symptoms can make diagnosis more challenging. This project explores an ML-based solution that uses handwriting patterns to distinguish ADHD, ASD, and control conditions.
 
